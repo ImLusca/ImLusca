@@ -4,7 +4,7 @@ I'm an undergradueted computer science student and a c# passionate. <br>
 Unfortunately all my c# repos are private(company requirements), but you can see the final results at :<br>
 👀 ck-office: <a href="www.ck-office.com.br"> ck-office.com.br</a> <br>
 
-🚗 eparkmolibe: soon this one gonna be available at google play store and apple store.<br>
+🚗 eparkmobile: soon this one gonna be available at google play store and apple store.<br>
 
 📷 camera-project(this one not even have a name yet) : not so soon gonna be available at google play store, apple store and will have its own website also :)<br>
 
