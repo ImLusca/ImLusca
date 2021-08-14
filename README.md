@@ -1,12 +1,12 @@
 
 # Hello! Im Lucas 👋
-I'm a udergradueted computer science student and a c# passionate. <br>
-Unfortunally all my c# repos are private(company requirements), but you can see the final result at :<br>
+I'm an undergradueted computer science student and a c# passionate. <br>
+Unfortunately all my c# repos are private(company requirements), but you can see the final results at :<br>
 👀 ck-office: <a href="www.ck-office.com.br"> ck-office.com.br</a> <br>
 
 🚗 eparkmolibe: soon this one gonna be available at google play store and apple store.<br>
 
-📷 camera-project(this one not even have a name yet) : not so soon gonna be available at google play store, apple store and will have it's own website also :)<br>
+📷 camera-project(this one not even have a name yet) : not so soon gonna be available at google play store, apple store and will have its own website also :)<br>
 
 ## Some stats and tecnologies:
  <div >
@@ -34,7 +34,7 @@ Unfortunally all my c# repos are private(company requirements), but you can see 
   </a>
 </div>
 
-## my contatcts :)
+## talk with me :)
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/pereira-lucas-br/" target="_blank">  
