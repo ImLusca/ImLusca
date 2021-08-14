@@ -38,13 +38,13 @@ Unfortunately all my c# repos are private(company requirements), but you can see
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/pereira-lucas-br/" target="_blank">  
-    <img align="center" alt="Lusca-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    <img align="center" alt="Lusca-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>  
   <a href="https://t.me/lusca021" target="_blank">  
-    <img align="center" alt="Lusca-CSS" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png">
+    <img align="center" alt="Lusca-CSS" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png">
   </a>  
   <a href="mailto:pereira_lucas@usp.br" target="_blank">  
-    <img align="center" alt="Lusca-CSS" height="50" width="50" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
+    <img align="center" alt="Lusca-CSS" height="35" width="35" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
   </a> 
 </div>
 
