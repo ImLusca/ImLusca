@@ -1,5 +1,5 @@
 
-# Hello! Im Lucas 👋
+# Hello there! I'm Lucas 👋
 I'm an undergradueted computer science student and a c# passionate. <br>
 Unfortunately all my c# repos are private(company requirements), but you can see the final results at :<br>
 👀 ck-office: <a href="www.ck-office.com.br"> ck-office.com.br</a> <br>
