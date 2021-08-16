@@ -20,8 +20,9 @@ Unfortunately all my c# repos are private(company requirements), but you can see
   <a href="https://github.com/ImLusca/Codigos021-1" target="_blank">
     <img align="center" alt="Lusca-C" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </a>
-  
-  <img align="center" alt="Lusca-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="#" target="_blank">
+    <img align="center" alt="Lusca-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">        
+  </a>
   
   <a href="https://imlusca.github.io/LimaSite/" target="_blank">
     <img align="center" alt="Lusca-HTML" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">     
