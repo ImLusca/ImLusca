@@ -6,8 +6,6 @@ Unfortunately, most of mine c# repos are private(company requirements), but you 
 
 🚗 eparkmobile:  soon this one gonna be available at Google Play Store and Apple Store.<br>
 
-🦘 Rede Canguru: A Startup project for child care and accompaniment. Soon gonna be available at Google Play Store, Apple Store and will have its own website also :)<br>
-
 ## Some stats and tecnologies:
  <div >
     <a href="https://github.com/ImLusca">
