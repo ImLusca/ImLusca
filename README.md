@@ -1,10 +1,7 @@
 
 # Hello there! I'm Lucas 👋
-I'm an undergraduated computer science student and a c# passionate. <br>
-Unfortunately, most of mine c# repos are private(company requirements), but you can see the final results at :<br>
-👀 ck-office: <a href="www.ck-office.com.br"> ck-office.com.br</a> <br>
+I'm an undergraduated computer science student. <br>
 
-🚗 eparkmobile:  soon this one gonna be available at Google Play Store and Apple Store.<br>
 
 ## Some stats and tecnologies:
  <div >
