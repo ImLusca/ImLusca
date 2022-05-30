@@ -1,6 +1,6 @@
 
 # Hello there! I'm Lucas 👋
-Hi, I'm Lusca! I'm an undergraduate computer science student who is still not sure what field to pursue. So I've played around with web development (front-end and back-end), data science, mobile, desktop, cloud and even embedded! I don't care what platform I'm working on, as long as I feel challenged to do something new.<br>
+I'm an undergraduate computer science student who is still not sure what field to pursue. So I've played around with web development (front-end and back-end), data science, mobile, desktop, cloud and even embedded! I don't care what platform I'm working on, as long as I feel challenged to do something new.<br>
 
 ## Some stats and tecnologies:
  <div >
