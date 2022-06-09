@@ -14,6 +14,9 @@ I'm an undergraduate computer science student who is still not sure what field t
   <a href="https://github.com/ImLusca/Codigos021-1" target="_blank">
     <img align="center" alt="Lusca-C" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </a>
+   <a href="https://github.com/ImLusca/Codigos021-1" target="_blank">
+    <img align="center" alt="Lusca-C" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  </a>
   <a href="#" target="_blank">
     <img align="center" alt="Lusca-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">        
   </a>
