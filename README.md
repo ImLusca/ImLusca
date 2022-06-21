@@ -32,7 +32,7 @@ I'm an undergraduate computer science student who is still not sure what field t
   </a>
 </div>
 
-## Talk with me :)
+## Get in touch :)
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/pereira-lucas-br/" target="_blank">  
