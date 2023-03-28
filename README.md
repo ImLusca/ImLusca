@@ -20,19 +20,20 @@ I'm an undergraduate computer science student who is still not sure what field t
   <a href="#" target="_blank">
     <img align="center" alt="Lusca-Csharp" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">        
   </a>
-  
-  <a href="https://imlusca.github.io/LimaSite/" target="_blank">
-    <img align="center" alt="Lusca-HTML" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">     
-  </a>
-  <a href="https://imlusca.github.io/CK_office/" target="_blank">  
-    <img align="center" alt="Lusca-CSS" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>  
   <a href="https://imlusca.github.io/regua_calc/" target="_blank">    
     <img align="center" alt="Lusca-Js" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
+  <a target="_blank">    
+    <img align="center" alt="Lusca-dotnet" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  </a>
+    <a target="_blank">    
+    <img align="center" alt="Lusca-Js" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg">
+  </a>  <a target="_blank">    
+    <img align="center" alt="Lusca-React" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  </a>
 </div>
 
-## Get in touch :)
+## Keep in touch :)
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/pereira-lucas-br/" target="_blank">  
@@ -45,5 +46,3 @@ I'm an undergraduate computer science student who is still not sure what field t
     <img align="center" alt="Lusca-CSS" height="35" width="35" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
   </a> 
 </div>
-
-
